@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "express-ejs-layouts": "^2.5.1",
+    "mysql2": "^3.11.2",
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "aplication",
+  "version": "1.0.0",
+  "description": "Project about exercice in node js",
+  "main": "server.js",
+  "author": "felbs",
+  "license": "ISC"
+}
